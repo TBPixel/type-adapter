@@ -38,6 +38,11 @@ class Bar
 {
     /** @var string **/
     public $name;
+    
+    public function __construct(string $name)
+    {
+        $this->name = $name;
+    }
 
     public static function fromFoo(Foo $foo): self
     {
