@@ -1,5 +1,8 @@
 # Type Adapter
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/TBPixel/type-adapter.svg?style=flat-square)](https://packagist.org/packages/tbpixel/type-adapter)
+[![Build Status](https://img.shields.io/travis/TBPixel/type-adapter/master.svg?style=flat-square)](https://travis-ci.org/TBPixel/type-adapter)
+
 A type-safe package for adapting from one data type to another.
 
 ## Contents
